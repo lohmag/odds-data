@@ -1,6 +1,6 @@
 # Odds
 
-Prematch odds from fon.bet and 1xbet, collected every evening (~21:20 Tallinn time) for the next day, 00:00 to 24:00
+Prematch odds from fon.bet and 1xbet, collected every evening (~21:00 Tallinn time) for the next day, 00:00 to 24:00
 Tallinn time, plus the games starting that evening after the collection (`window.from`).
 
 `<day>/<bookmaker>.json`, e.g. `2026-11-14/1xbet.json`:
